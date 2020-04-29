@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string-array name="cool_animals">
+        <item>Octopus</item>
+        <item>Raccoon</item>
+        <item>Indominus Rex</item>
+        <item>Lion</item>
+        <item>Bison</item>
+        <item>Dog</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item></item>
+        <item>The hybrid was created by combining the genetic traits of multiple species.</item>
+        <item>The hybrid was created by combining the genetic traits of multiple species. </item>
+        <item>The hybrid was created by combining the genetic traits of multiple species.</item>
+        <item>The hybrid was created by combining the genetic traits of multiple species.</item>
+        <item>The hybrid was created by combining the genetic traits of multiple species.</item>
+        <item>The hybrid was created by combining the genetic traits of multiple species.</item>
+    </string-array>
+</resources>
